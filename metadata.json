@@ -1,0 +1,6 @@
+{
+  "name": "Batch Image Processor",
+  "description": "Convert transparent PNG backgrounds to white, download as a ZIP or stitch them into a stop-motion video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
